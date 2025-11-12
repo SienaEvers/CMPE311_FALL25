@@ -1,1 +1,3 @@
-creating a folder
+creating a folder in github requires me to create a file.
+
+The project report is the pdf and it has links to the video and code.
